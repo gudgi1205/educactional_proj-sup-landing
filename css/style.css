@@ -1027,8 +1027,8 @@ img {
 }
 
 .gallery-min__img {
-  height: -webkit-fill-available;
   width: 100%;
+  height: -webkit-fill-available;
   -ms-flex-item-align: stretch;
       -ms-grid-row-align: stretch;
       align-self: stretch;
@@ -1063,8 +1063,8 @@ img {
 }
 
 .gallery-max__img {
-  height: -webkit-fill-available;
   width: 100%;
+  height: -webkit-fill-available;
   -ms-flex-item-align: stretch;
       -ms-grid-row-align: stretch;
       align-self: stretch;
